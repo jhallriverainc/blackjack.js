@@ -1,6 +1,6 @@
 {
-  "name": "eagle6",
-  "version": "0.6.9+2014.03.07",
+  "name": "blackjack.js",
+  "version": "0.0.1",
   "devDependencies": {
     "mocha": "*"
   },
