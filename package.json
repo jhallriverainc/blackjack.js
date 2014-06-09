@@ -1,0 +1,13 @@
+{
+  "name": "eagle6",
+  "version": "0.6.9+2014.03.07",
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "license": "Commercial",
+  "private": true,
+  "engine": {
+    "node": ">=0.10"
+  },
+  "config": {}
+}

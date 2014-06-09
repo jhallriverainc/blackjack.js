@@ -1,0 +1,11 @@
+{
+	"node": true,
+	"strict": false,
+	"unused": false,
+	"forin": false,
+	"newcap": true,
+	"expr": true,
+	"globals":{
+		"setImmediate":true
+	}
+}
