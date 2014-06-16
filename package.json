@@ -4,10 +4,6 @@
   "devDependencies": {
     "mocha": "*"
   },
-  "license": "Commercial",
   "private": true,
-  "engine": {
-    "node": ">=0.10"
-  },
   "config": {}
 }
